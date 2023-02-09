@@ -17,5 +17,10 @@ Providers: AWS (Ec2, s3, sns, iam, LB,AS, VPC, Route53, CI/CD pipelines in aws e
 9.	Kubernetes (Orchestraton tool)
 10.	Terraform (Infrastructure management tool)
 11.	Prometheus & Grafana & CLOUDWATCH (aws)       OR DataDog
-12.	Linux Commands * basic Networking commands
-13.	XML, JSON, YAML, SHELL etc….
+sahdsihi
+a
+fsafadf
+d
+f
+df
+d
