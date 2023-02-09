@@ -1,0 +1,21 @@
+1.	SCM (Source Code mangament)
+Tools : GitHub Git,, SVN, Bitbucket etc…
+2.	Build (Compile & Package)
+Tools : Ant, Maven, Gradle, Fastlane ….
+3.	CI/CD (Contineous integration & Conitneous Deployment & Delivery)
+Tools: Jenkins, Bamboo, Circleci, Teamcity etc…
+4.	CodeQuality (Validate Code syntax & Rules)
+Tools: Sonarqube
+5.	Artifactory (Storing Artifacts Backp)
+Tools :  jfrog, Nexus
+6.	Deployment (Deployment & Configuration management)
+Tools: Ansible, Chef, Saltstack,Puppet,Appcenter etc…
+7.	Cloud
+Providers: AWS (Ec2, s3, sns, iam, LB,AS, VPC, Route53, CI/CD pipelines in aws etc,… )
+, GCP, Azure etc….
+8.	Docker (Containerization tool)
+9.	Kubernetes (Orchestraton tool)
+10.	Terraform (Infrastructure management tool)
+11.	Prometheus & Grafana & CLOUDWATCH (aws)       OR DataDog
+12.	Linux Commands * basic Networking commands
+13.	XML, JSON, YAML, SHELL etc….
